@@ -1,0 +1,39 @@
+from cryptography.fernet import Fernet
+
+def generate_key():
+    """
+    Gera uma nova chave de encriptação e guarda-a num ficheiro secret.key.
+    Executa esta função uma vez e guarda a chave com permissões restritas.
+    """
+    key = Fernet.generate_key()
+    with open("secret.key", "wb") as key_file:
+        key_file.write(key)
+    return key
+
+def load_key():
+    """
+    Carrega a chave de encriptação a partir do ficheiro secret.key.
+    """
+    with open("secret.key", "rb") as key_file:
+        key = key_file.read()
+    return key
+
+def encrypt_password(password, key=None):
+    """
+    Encripta a password usando Fernet e retorna o token encriptado (em string).
+    """
+    if key is None:
+        key = load_key()
+    f = Fernet(key)
+    token = f.encrypt(password.encode())
+    return token.decode()
+
+def decrypt_password(token, key=None):
+    """
+    Decripta o token encriptado e retorna a password original.
+    """
+    if key is None:
+        key = load_key()
+    f = Fernet(key)
+    decrypted = f.decrypt(token.encode())
+    return decrypted.decode()
