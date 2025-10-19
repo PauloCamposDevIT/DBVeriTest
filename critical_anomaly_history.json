@@ -1,0 +1,3412 @@
+{
+  "critical_anomalies": [
+    {
+      "database": "HRMS_Prod",
+      "device": "{F6C38D63-6799-4376-851E-896CD46C63BA}3",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:07:08",
+      "level": 0
+    },
+    {
+      "database": "HRMS_Prod",
+      "device": "{DB61E48F-2086-44C4-B4B5-C964F0C89A87}3",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T02:07:25",
+      "level": 0
+    },
+    {
+      "database": "HRMS_QA",
+      "device": "{119F9ED2-82A0-48F6-9E9B-B7AA15DABCF1}4",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:27",
+      "level": 0
+    },
+    {
+      "database": "HRMS_QA",
+      "device": "{08B0AFE4-60F4-49D8-96A2-3566B89B5A4D}4",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:23",
+      "level": 0
+    },
+    {
+      "database": "HRMS_QA",
+      "device": "{601A2028-1193-400D-B7EF-67AFCDE60348}4",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:26",
+      "level": 0
+    },
+    {
+      "database": "HRMS_QA",
+      "device": "{1E4EB11F-B79C-49D7-A507-6BC515475163}4",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:06:42",
+      "level": 0
+    },
+    {
+      "database": "HRMS_QA",
+      "device": "{312C52FE-E74C-4F7E-AC9B-F267B5655176}4",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:07:02",
+      "level": 0
+    },
+    {
+      "database": "HRMS_QA",
+      "device": "{C0E77D02-EA76-4510-812E-0FFF8BED3999}4",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:56",
+      "level": 0
+    },
+    {
+      "database": "HRMS_QA",
+      "device": "{E5EBBCB8-8DF7-4E6F-8362-F13565E66E92}4",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:39:43",
+      "level": 0
+    },
+    {
+      "database": "HRMS_QA",
+      "device": "{66939265-F7B3-40C7-BCC6-04D3066D57B5}4",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:48",
+      "level": 0
+    },
+    {
+      "database": "HRMS_QA",
+      "device": "{87F4992C-0010-4D10-A70E-7011540D2800}4",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:07:05",
+      "level": 0
+    },
+    {
+      "database": "HRMS_QA",
+      "device": "{6ADC204C-C884-49FB-9DB7-CE19FC76A814}4",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:07:55",
+      "level": 0
+    },
+    {
+      "database": "HRMS_QA",
+      "device": "{8823E827-E547-4382-AC58-A35DC3E29EDF}4",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:07:50",
+      "level": 0
+    },
+    {
+      "database": "HRMS_QA",
+      "device": "{A2C9483B-51B4-4E21-AC80-8F126FA65005}4",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "HRMS_QA",
+      "device": "{F6C38D63-6799-4376-851E-896CD46C63BA}4",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:07:08",
+      "level": 0
+    },
+    {
+      "database": "HRMS_QA",
+      "device": "{DB61E48F-2086-44C4-B4B5-C964F0C89A87}4",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T02:07:25",
+      "level": 0
+    },
+    {
+      "database": "LMS",
+      "device": "{119F9ED2-82A0-48F6-9E9B-B7AA15DABCF1}5",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:27",
+      "level": 0
+    },
+    {
+      "database": "LMS",
+      "device": "{08B0AFE4-60F4-49D8-96A2-3566B89B5A4D}5",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:23",
+      "level": 0
+    },
+    {
+      "database": "LMS",
+      "device": "{601A2028-1193-400D-B7EF-67AFCDE60348}5",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:26",
+      "level": 0
+    },
+    {
+      "database": "LMS",
+      "device": "{1E4EB11F-B79C-49D7-A507-6BC515475163}5",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:06:42",
+      "level": 0
+    },
+    {
+      "database": "LMS",
+      "device": "{312C52FE-E74C-4F7E-AC9B-F267B5655176}5",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:07:02",
+      "level": 0
+    },
+    {
+      "database": "LMS",
+      "device": "{C0E77D02-EA76-4510-812E-0FFF8BED3999}5",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:56",
+      "level": 0
+    },
+    {
+      "database": "LMS",
+      "device": "{E5EBBCB8-8DF7-4E6F-8362-F13565E66E92}5",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:39:43",
+      "level": 0
+    },
+    {
+      "database": "LMS",
+      "device": "{66939265-F7B3-40C7-BCC6-04D3066D57B5}5",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:48",
+      "level": 0
+    },
+    {
+      "database": "LMS",
+      "device": "{87F4992C-0010-4D10-A70E-7011540D2800}5",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:07:05",
+      "level": 0
+    },
+    {
+      "database": "LMS",
+      "device": "{6ADC204C-C884-49FB-9DB7-CE19FC76A814}5",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:07:55",
+      "level": 0
+    },
+    {
+      "database": "LMS",
+      "device": "{8823E827-E547-4382-AC58-A35DC3E29EDF}5",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:07:50",
+      "level": 0
+    },
+    {
+      "database": "LMS",
+      "device": "{A2C9483B-51B4-4E21-AC80-8F126FA65005}5",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "LMS",
+      "device": "{F6C38D63-6799-4376-851E-896CD46C63BA}5",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:07:08",
+      "level": 0
+    },
+    {
+      "database": "LMS",
+      "device": "{DB61E48F-2086-44C4-B4B5-C964F0C89A87}5",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T02:07:25",
+      "level": 0
+    },
+    {
+      "database": "UltiPro",
+      "device": "{119F9ED2-82A0-48F6-9E9B-B7AA15DABCF1}8",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:27",
+      "level": 0
+    },
+    {
+      "database": "UltiPro",
+      "device": "{08B0AFE4-60F4-49D8-96A2-3566B89B5A4D}8",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:23",
+      "level": 0
+    },
+    {
+      "database": "UltiPro",
+      "device": "{601A2028-1193-400D-B7EF-67AFCDE60348}8",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:26",
+      "level": 0
+    },
+    {
+      "database": "UltiPro",
+      "device": "{1E4EB11F-B79C-49D7-A507-6BC515475163}8",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:06:42",
+      "level": 0
+    },
+    {
+      "database": "UltiPro",
+      "device": "{312C52FE-E74C-4F7E-AC9B-F267B5655176}8",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:07:02",
+      "level": 0
+    },
+    {
+      "database": "UltiPro",
+      "device": "{C0E77D02-EA76-4510-812E-0FFF8BED3999}8",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:57",
+      "level": 0
+    },
+    {
+      "database": "UltiPro",
+      "device": "{E5EBBCB8-8DF7-4E6F-8362-F13565E66E92}8",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:39:43",
+      "level": 0
+    },
+    {
+      "database": "UltiPro",
+      "device": "{66939265-F7B3-40C7-BCC6-04D3066D57B5}8",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:48",
+      "level": 0
+    },
+    {
+      "database": "UltiPro",
+      "device": "{87F4992C-0010-4D10-A70E-7011540D2800}8",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:07:05",
+      "level": 0
+    },
+    {
+      "database": "UltiPro",
+      "device": "{6ADC204C-C884-49FB-9DB7-CE19FC76A814}8",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:07:55",
+      "level": 0
+    },
+    {
+      "database": "UltiPro",
+      "device": "{8823E827-E547-4382-AC58-A35DC3E29EDF}8",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:07:50",
+      "level": 0
+    },
+    {
+      "database": "UltiPro",
+      "device": "{A2C9483B-51B4-4E21-AC80-8F126FA65005}8",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "UltiPro",
+      "device": "{F6C38D63-6799-4376-851E-896CD46C63BA}8",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:07:09",
+      "level": 0
+    },
+    {
+      "database": "UltiPro",
+      "device": "{DB61E48F-2086-44C4-B4B5-C964F0C89A87}8",
+      "user": "YZK\\CANT01DBSEXA002$",
+      "instance": "CANT01DBSEXA002",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T02:07:26",
+      "level": 0
+    },
+    {
+      "database": "SGADB2",
+      "device": "D:\\SQLVeeamTRNTemp\\{8bcd403e-24c2-4856-bea3-45582bc6aad9}.bak",
+      "user": "NA\\adm_90017558",
+      "instance": "MONT00DBEXA01",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-23T18:47:56",
+      "level": 0
+    },
+    {
+      "database": "SGADB2_GT",
+      "device": "D:\\SQLVeeamTRNTemp\\{5f561b90-d74d-4af5-8ae0-4548ea2d25cd}.bak",
+      "user": "NA\\adm_90017558",
+      "instance": "MONT00DBEXA01",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-23T18:49:10",
+      "level": 0
+    },
+    {
+      "database": "ADAuditPlus",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}1",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "ADAuditPlus",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}1",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "ADAuditPlus",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}1",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "ADAuditPlus",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}1",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "ADAuditPlus",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}1",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "ADAuditPlus",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}1",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "ADAuditPlus",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}1",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "ADAuditPlus",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}1",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "ADAuditPlus",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}1",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "ADAuditPlus",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}1",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "ADAuditPlus",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}1",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "ADAuditPlus",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}1",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "ADAuditPlus",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}1",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "ADAuditPlus",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}1",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:07",
+      "level": 0
+    },
+    {
+      "database": "CitrixPVS",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}2",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "CitrixPVS",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}2",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "CitrixPVS",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}2",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "CitrixPVS",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}2",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "CitrixPVS",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}2",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "CitrixPVS",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}2",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "CitrixPVS",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}2",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "CitrixPVS",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}2",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "CitrixPVS",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}2",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "CitrixPVS",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}2",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "CitrixPVS",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}2",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "CitrixPVS",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}2",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "CitrixPVS",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}2",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "CitrixPVS",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}2",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:07",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODLogging",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}3",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODLogging",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}3",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODLogging",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}3",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODLogging",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}3",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODLogging",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}3",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODLogging",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}3",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODLogging",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}3",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODLogging",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}3",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODLogging",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}3",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODLogging",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}3",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODLogging",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}3",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODLogging",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}3",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODLogging",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}3",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODLogging",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}3",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:07",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODMonitoring",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}4",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODMonitoring",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}4",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODMonitoring",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}4",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODMonitoring",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}4",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODMonitoring",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}4",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODMonitoring",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}4",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODMonitoring",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}4",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODMonitoring",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}4",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODMonitoring",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}4",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODMonitoring",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}4",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODMonitoring",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}4",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODMonitoring",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}4",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODMonitoring",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}4",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODMonitoring",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}4",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:07",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODSite",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}5",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODSite",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}5",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODSite",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}5",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODSite",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}5",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODSite",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}5",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODSite",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}5",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODSite",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}5",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODSite",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}5",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODSite",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}5",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODSite",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}5",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODSite",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}5",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODSite",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}5",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODSite",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}5",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "CitrixVDIPRODSite",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}5",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:08",
+      "level": 0
+    },
+    {
+      "database": "DBAMonitor",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}6",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "DBAMonitor",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}6",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "DBAMonitor",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}6",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "DBAMonitor",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}6",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "DBAMonitor",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}6",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "DBAMonitor",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}6",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "DBAMonitor",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}6",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "DBAMonitor",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}6",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "DBAMonitor",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}6",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "DBAMonitor",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}6",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "DBAMonitor",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}6",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "DBAMonitor",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}6",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "DBAMonitor",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}6",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "DBAMonitor",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}6",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:08",
+      "level": 0
+    },
+    {
+      "database": "DBASolarWinds",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}7",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "DBASolarWinds",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}7",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "DBASolarWinds",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}7",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "DBASolarWinds",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}7",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "DBASolarWinds",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}7",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "DBASolarWinds",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}7",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "DBASolarWinds",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}7",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "DBASolarWinds",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}7",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "DBASolarWinds",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}7",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "DBASolarWinds",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}7",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "DBASolarWinds",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}7",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "DBASolarWinds",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}7",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "DBASolarWinds",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}7",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "DBASolarWinds",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}7",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:08",
+      "level": 0
+    },
+    {
+      "database": "EAC",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}8",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "EAC",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}8",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "EAC",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}8",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "EAC",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}8",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "EAC",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}8",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "EAC",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}8",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "EAC",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}8",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "EAC",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}8",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "EAC",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}8",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "EAC",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}8",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "EAC",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}8",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "EAC",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}8",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "EAC",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}8",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "EAC",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}8",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:08",
+      "level": 0
+    },
+    {
+      "database": "eqcas",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}9",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "eqcas",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}9",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "eqcas",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}9",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "eqcas",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}9",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "eqcas",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}9",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "eqcas",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}9",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "eqcas",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}9",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "eqcas",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}9",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "eqcas",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}9",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "eqcas",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}9",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "eqcas",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}9",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "eqcas",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}9",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "eqcas",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}9",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "eqcas",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}9",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:08",
+      "level": 0
+    },
+    {
+      "database": "ERPM",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}10",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "ERPM",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}10",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "ERPM",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}10",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "ERPM",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}10",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "ERPM",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}10",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "ERPM",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}10",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "ERPM",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}10",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "ERPM",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}10",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "ERPM",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}10",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "ERPM",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}10",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "ERPM",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}10",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "ERPM",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}10",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "ERPM",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}10",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "ERPM",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}10",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:08",
+      "level": 0
+    },
+    {
+      "database": "ERPM_Compliance",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}11",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "ERPM_Compliance",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}11",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "ERPM_Compliance",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}11",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "ERPM_Compliance",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}11",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "ERPM_Compliance",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}11",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "ERPM_Compliance",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}11",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "ERPM_Compliance",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}11",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "ERPM_Compliance",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}11",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "ERPM_Compliance",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}11",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "ERPM_Compliance",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}11",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "ERPM_Compliance",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}11",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "ERPM_Compliance",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}11",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "ERPM_Compliance",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}11",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "ERPM_Compliance",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}11",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:08",
+      "level": 0
+    },
+    {
+      "database": "FIMService",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}12",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "FIMService",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}12",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "FIMService",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}12",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "FIMService",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}12",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "FIMService",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}12",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "FIMService",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}12",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "FIMService",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}12",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "FIMService",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}12",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "FIMService",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}12",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "FIMService",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}12",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "FIMService",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}12",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "FIMService",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}12",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "FIMService",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}12",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "FIMService",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}12",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:08",
+      "level": 0
+    },
+    {
+      "database": "Users",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}15",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "Users",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}15",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "Users",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}15",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "Users",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}15",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "Users",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}15",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "Users",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}15",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "Users",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}15",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "Users",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}15",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "Users",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}15",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "Users",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}15",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "Users",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}15",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "Users",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}15",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "Users",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}15",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "Users",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}15",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:08",
+      "level": 0
+    },
+    {
+      "database": "VeeamBackup_YNA",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}16",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "VeeamBackup_YNA",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}16",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "VeeamBackup_YNA",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}16",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "VeeamBackup_YNA",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}16",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "VeeamBackup_YNA",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}16",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "VeeamBackup_YNA",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}16",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "VeeamBackup_YNA",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}16",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "VeeamBackup_YNA",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}16",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "VeeamBackup_YNA",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}16",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "VeeamBackup_YNA",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}16",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "VeeamBackup_YNA",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}16",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "VeeamBackup_YNA",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}16",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "VeeamBackup_YNA",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}16",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "VeeamBackup_YNA",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}16",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:08",
+      "level": 0
+    },
+    {
+      "database": "VirtualManagerDB",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}17",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "VirtualManagerDB",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}17",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "VirtualManagerDB",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}17",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "VirtualManagerDB",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}17",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "VirtualManagerDB",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}17",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "VirtualManagerDB",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}17",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "VirtualManagerDB",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}17",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "VirtualManagerDB",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}17",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "VirtualManagerDB",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}17",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "VirtualManagerDB",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}17",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "VirtualManagerDB",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}17",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "VirtualManagerDB",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}17",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "VirtualManagerDB",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}17",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "VirtualManagerDB",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}17",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:08",
+      "level": 0
+    },
+    {
+      "database": "VMMDB2016",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}18",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "VMMDB2016",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}18",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "VMMDB2016",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}18",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "VMMDB2016",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}18",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "VMMDB2016",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}18",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "VMMDB2016",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}18",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "VMMDB2016",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}18",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "VMMDB2016",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}18",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "VMMDB2016",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}18",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "VMMDB2016",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}18",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "VMMDB2016",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}18",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "VMMDB2016",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}18",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "VMMDB2016",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}18",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "VMMDB2016",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}18",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:08",
+      "level": 0
+    },
+    {
+      "database": "ZZ_DELETE_AdAuditTool",
+      "device": "{C465741C-811C-4F5D-96AA-92CC6CF34187}19",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-06T00:06:37",
+      "level": 0
+    },
+    {
+      "database": "ZZ_DELETE_AdAuditTool",
+      "device": "{ABD1DA66-FD9D-4A83-91B8-6D082713A09B}19",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-05T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "ZZ_DELETE_AdAuditTool",
+      "device": "{8749FAAA-08C3-4E0D-9ECF-C1B7E3E4A4EA}19",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-04T00:06:34",
+      "level": 0
+    },
+    {
+      "database": "ZZ_DELETE_AdAuditTool",
+      "device": "{906D27A8-1EC1-4B6B-AFA6-3F6B718376E7}19",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-03T00:07:15",
+      "level": 0
+    },
+    {
+      "database": "ZZ_DELETE_AdAuditTool",
+      "device": "{CD211B4C-C882-4A8F-80AE-CECED77FAB91}19",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-02T00:08:27",
+      "level": 0
+    },
+    {
+      "database": "ZZ_DELETE_AdAuditTool",
+      "device": "{5F422F10-C451-46E7-A27D-7EC71F9E3082}19",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-06-01T00:07:07",
+      "level": 0
+    },
+    {
+      "database": "ZZ_DELETE_AdAuditTool",
+      "device": "{22971EB3-E277-4C18-BC48-8C02A490D412}19",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-31T01:02:22",
+      "level": 0
+    },
+    {
+      "database": "ZZ_DELETE_AdAuditTool",
+      "device": "{09C9B981-048A-4323-9BDF-1C6BCD2CEEC0}19",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-30T00:06:46",
+      "level": 0
+    },
+    {
+      "database": "ZZ_DELETE_AdAuditTool",
+      "device": "{0BDB63C5-8650-4AE0-B933-FA77FAC56398}19",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-29T00:06:44",
+      "level": 0
+    },
+    {
+      "database": "ZZ_DELETE_AdAuditTool",
+      "device": "{A6667030-ACD0-4D75-B95A-56E4788AEEED}19",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-28T00:06:45",
+      "level": 0
+    },
+    {
+      "database": "ZZ_DELETE_AdAuditTool",
+      "device": "{B7604F93-E70F-4C6E-89D8-FC94B712B265}19",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-27T00:06:41",
+      "level": 0
+    },
+    {
+      "database": "ZZ_DELETE_AdAuditTool",
+      "device": "{D571EE55-312B-4010-97F3-39F6968FF335}19",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-26T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "ZZ_DELETE_AdAuditTool",
+      "device": "{8A491EFD-8D0C-4318-AEEC-BFAC80B05E7D}19",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-25T00:06:43",
+      "level": 0
+    },
+    {
+      "database": "ZZ_DELETE_AdAuditTool",
+      "device": "{C1490B64-28F8-441B-B7AF-61FB4516A9F6}19",
+      "user": "YZK\\CANT01DBSEXA001$",
+      "instance": "CANT01DBSEXA001",
+      "type": "Full backup",
+      "issues": [
+        "Utilizador não autorizado"
+      ],
+      "timestamp": "2025-05-24T00:56:08",
+      "level": 0
+    }
+  ]
+}

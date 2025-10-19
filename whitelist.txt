@@ -1,0 +1,9 @@
+sa
+NT SERVICE\
+NT AUTHORITY\
+BUILTIN\
+VanSora-Hybrid\
+YEL\yse_app_1
+YEL\YELKO_App_1
+NA\svc_veeam
+YEL\YMK_APP_1

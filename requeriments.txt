@@ -1,0 +1,4 @@
+# Requer Python 3.8 ou superior
+
+# Conexão com bases de dados (SQL Server via pyodbc)
+pyodbc>=4.0.32
